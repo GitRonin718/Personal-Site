@@ -1,3 +1,9 @@
 body{
-	background: url(../images/Elegant_Background-16.jpg);
+	background: url(../images/Wood_Background_8.jpg);
+}
+p{
+	width: 32.3%;	
+	display: block;
+	background: #ccc;
+	padding: 10px;
 }
